@@ -12,5 +12,7 @@ In either Command Prompt(Windows)/Terminal(Mac): \
 # tmdb-movies.csv 
 In my code, I directly used the file name when I read the csv file. To be able to do that, you need to first upload the actual file into your jupyter notebook. 
 
+
 # Issue
 In the dataset, there is this column called genre. There are movies with multiple genre seperated by '|'. I wasn't to be able to seperate them individually because every movie has different number of mix genre. So I just automatically assume the first genre is the primary genre of the movie. 
+
