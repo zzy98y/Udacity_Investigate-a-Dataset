@@ -1,7 +1,6 @@
 # Udacity_Investigate-a-Dataset
 ## Udacity Data Analyst Nano Degree Project #2 Investigate a Dataset 
 ### This project presented a thorogh process of Data Analysis. Content and Analysis wise may not be perfect, but process wise is complete and thorogh. 
-## **Warning: This is a passed project, copy this project may result in plagerism and program cancellation from Udacity.**
 # Setup 
 If you **DON'T** have Pandas, Numpy, Matplotlib and Jupyter Notebook installed: 
 In either Command Prompt(Windows)/Terminal(Mac): \
